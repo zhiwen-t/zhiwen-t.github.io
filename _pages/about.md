@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -23,7 +23,7 @@ I am an Associate Professor in the School of Information Science & Engineering, 
 
 Before joining Yunnan University, I was a research scientist at Meta. I gained my PhD degree from the department of computer science, Georgetown University. Prior to that, I obtained my bachelor degree from Beihang University, China. 
 
-You can find my Chinese homepage [here] (http://www.ise.ynu.edu.cn/teacher/1004)
+You can find my Chinese homepage [here](http://www.ise.ynu.edu.cn/teacher/1004)
 
 # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
